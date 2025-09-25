@@ -4,7 +4,7 @@
 // @version      1.0.0
 // @license      MIT
 // @supportURL   https://github.com/BobLiu0518/USST-Course-Watch/issues
-// @description  自动刷新USST教务选课系统，检查班级是否有余量
+// @description  自动监控并通知 USST 教务系统的班级余量信息
 // @author       BobLiu
 // @match        https://jwgl.usst.edu.cn/jwglxt/xsxk/zzxkyzb_cxZzxkYzbIndex.html?*
 // @icon         https://jwgl.usst.edu.cn/jwglxt/logo/favicon.ico
